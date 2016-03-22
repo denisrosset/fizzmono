@@ -1,0 +1,5 @@
+addSbtPlugin("com.typesafe.sbt"    % "sbt-site"               % "1.0.0")
+addSbtPlugin("com.typesafe.sbt"    % "sbt-ghpages"            % "0.5.4")
+addSbtPlugin("org.tpolecat"        % "tut-plugin"             % "0.4.2")
+addSbtPlugin("com.typesafe.sbt"    % "sbt-git"                % "0.8.5")
+addSbtPlugin("com.github.tkawachi" % "sbt-doctest"            % "0.3.5")
