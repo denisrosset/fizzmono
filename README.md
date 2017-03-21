@@ -1,3 +1,7 @@
+For historical purposes.
+
+Look at [microsites](https://47deg.github.io/sbt-microsites/) instead.
+
 ## Fizz (mono project template)
 
 An opinionated Scala project template to publish Github pages including:
